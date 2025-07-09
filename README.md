@@ -14,11 +14,4 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=eslambashry.eslambashry&"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=eslambashry&theme=tokyonight" alt="Layout with last medium posts"  />
-</div>
-
 ###
